@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://carroattrezzitorino24.it/sitemap.xml

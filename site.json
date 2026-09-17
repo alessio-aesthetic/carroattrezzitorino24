@@ -1,0 +1,18 @@
+{
+  "city": "Torino",
+  "domain": "carroattrezzitorino24.it",
+  "brand": "TORINO / TRAZIONE",
+  "phone": null,
+  "address": null,
+  "email": "assistenza@carroattrezzitorino24.it",
+  "nearby": [
+    "Moncalieri",
+    "Collegno",
+    "Rivoli",
+    "Grugliasco",
+    "Venaria Reale",
+    "Settimo Torinese"
+  ],
+  "contactStatus": "awaiting_verified_phone_and_address",
+  "theme": "industrial"
+}
