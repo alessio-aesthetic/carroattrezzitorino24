@@ -1,7 +1,7 @@
 {
   "city": "Torino",
   "domain": "carroattrezzitorino24.it",
-  "brand": "TORINO / TRAZIONE",
+  "brand": "Torino Trazione",
   "phone": null,
   "address": null,
   "email": "assistenza@carroattrezzitorino24.it",
@@ -14,5 +14,12 @@
     "Settimo Torinese"
   ],
   "contactStatus": "awaiting_verified_phone_and_address",
-  "theme": "industrial"
+  "theme": "industrial",
+  "brandIdentity": {
+    "version": 2,
+    "concept": "Monogramma TT a incastro, tagli diagonali e lettering industriale su due righe.",
+    "primary": "/assets/brand/logo-primary.svg",
+    "reverse": "/assets/brand/logo-reverse.svg",
+    "symbol": "/assets/brand/symbol.svg"
+  }
 }
